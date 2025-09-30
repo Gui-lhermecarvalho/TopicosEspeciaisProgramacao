@@ -8,3 +8,6 @@ Aula 02 - 26/08/2025
 
 Aula 03 - 02/09/2025
   Atualizados os códigos dos arquivos da aula anterior para que, de fato, as keys funcionem como o previsto.
+
+Aula 04 - 16/09/2025
+  Atualizados os códigos dos arquivos da aula anterior para que, de fato, as keys funcionem como o previsto.
